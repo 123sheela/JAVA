@@ -45,4 +45,4 @@
 >
 > **String[ ] args / String args[ ]** - Used for command line arguments.
 >
-> **System.out.println()** - It is used to print the statement. Here, System is a class, out is an object of the PrintStream class, println() is a method od the PrintStream class.
+> **System.out.println()** - It is used to print the statement. Here, System is a class, out is an object of the PrintStream class, println() is a method of the PrintStream class.
